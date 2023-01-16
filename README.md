@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linirzamir&label=Profile%20views&color=0e75b6&style=flat" alt="linirzamir" /> </p>
 <p align="left">
-  <a href="https://instagram.com/sweet_not_found" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="sweet_not_found" height="30" width="40" /></a>
+  <a href="https://scholar.google.com/citations?user=rp8gc_0AAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="sweet_not_found" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/linirzamir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/linirzamir/" height="30" width="40" /></a>
 
 </p>
